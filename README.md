@@ -1,6 +1,6 @@
 Date: 11/13/2026
 
-Project 2 CSMC with Semaphores, Mutexes
+OS Project 2 CSMC with Semaphores, Mutexes
 =======================================
 
 Additional Test Configurations:
